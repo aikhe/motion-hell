@@ -6,6 +6,7 @@
   - [ ] Clean junks
   - [ ] Project structure
   - [ ] Dependencies
+    - [ ] sass
     - [ ] lenis
     - [ ] motion
     - [ ] react-three-fiber

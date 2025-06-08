@@ -1,7 +1,7 @@
 function MainPage() {
   return (
     <>
-      <p>aikheandrei</p>
+      <p>aikhe</p>
       <p>lulumi</p>
       <p>maomi</p>
     </>
