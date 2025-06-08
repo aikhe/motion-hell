@@ -1,3 +1,16 @@
+#### To-Do:
+
+- VITE
+
+  - [ ] Installation
+  - [ ] Clean junks
+  - [ ] Project structure
+  - [ ] Dependencies
+    - [ ] lenis
+    - [ ] motion
+    - [ ] react-three-fiber
+  - [ ] 
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
