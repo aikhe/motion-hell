@@ -1,3 +1,12 @@
+import * as motion from "motion/react-client";
+
+const box = {
+  width: 100,
+  height: 100,
+  backgroundColor: "#ff0088",
+  borderRadius: 5,
+};
+
 function MainPage() {
   return (
     <>
@@ -9,6 +18,15 @@ function MainPage() {
             className="flex h-[100svh] w-full items-center justify-center bg-black"
           >
             <p className="text-2xl text-white">Lumi&lt;3</p>
+            <motion.div
+              style={box}
+              animate={{ rotate: 360 }}
+              transition={{
+                repeat: Infinity,
+                repeatType: "loop",
+                duration: 1,
+              }}
+            />
           </div>
         ) : (
           <div

@@ -17,7 +17,7 @@
     Since Tailwind is designed for modern browsers, you actually don't need a preprocessor for things like nesting or variables, and Tailwind itself will do things like bundle your imports and add vendor prefixes.
     ```
     - [x] tailwindcss @tailwindcss/vite
-    - [ ] lenis
+    - [x] lenis
     - [ ] motion
     - [ ] react-three-fiber
   - [ ] 
