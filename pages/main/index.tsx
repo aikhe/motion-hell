@@ -1,9 +1,9 @@
 function MainPage() {
   return (
     <>
-      <p>aikhe</p>
-      <p>lulumi</p>
-      <p>maomi</p>
+      <p className="text-4xl">aikhe</p>
+      <p className="text-5xl">lulumi</p>
+      <p className="">maomi</p>
     </>
   );
 }

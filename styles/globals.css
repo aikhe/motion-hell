@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-black text-white;
+}
+
+.inspect {
+  @apply border-red-400 border-2;
+}
