@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import "../styles/globals.scss";
+import "../styles/globals.css";
 
 import Main from "../layouts/Main.tsx";
 
