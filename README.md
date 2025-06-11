@@ -2,9 +2,9 @@
 
 - VITE
 
-  - [ ] Installation
-  - [ ] Clean junks
-  - [ ] Project structure
+  - [x] Installation
+  - [x] Clean junks
+  - [x] Project structure
   - [ ] Dependencies
     - [ ] sass
     - [ ] lenis
