@@ -6,7 +6,17 @@
   - [x] Clean junks
   - [x] Project structure
   - [ ] Dependencies
-    - [ ] sass
+    - [-] sass-embedded
+    ```text
+    - Well, looks like tailwind want simplicity
+
+    Tailwind CSS v4.0 is a full-featured CSS build tool designed for a specific workflow, and is not designed to be used with CSS preprocessors like Sass, Less, or Stylus.
+    
+    Think of Tailwind CSS itself as your preprocessor — you shouldn't use Tailwind with Sass for the same reason you wouldn't use Sass with Stylus.
+    
+    Since Tailwind is designed for modern browsers, you actually don't need a preprocessor for things like nesting or variables, and Tailwind itself will do things like bundle your imports and add vendor prefixes.
+    ```
+    - [x] tailwindcss @tailwindcss/vite
     - [ ] lenis
     - [ ] motion
     - [ ] react-three-fiber
