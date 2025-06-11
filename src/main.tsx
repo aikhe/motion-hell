@@ -4,10 +4,14 @@ import "../styles/globals.css";
 
 import Main from "../layouts/Main.tsx";
 
-const rootElement = document.getElementById("root");
+const rootElement = document.getElementById("lenis-root");
 
-ReactDOM.createRoot(rootElement!).render(
-  <React.StrictMode>
-    <Main />
-  </React.StrictMode>,
-);
+if (rootElement) {
+  ReactDOM.createRoot(rootElement!).render(
+    <React.StrictMode>
+      <Main />
+    </React.StrictMode>,
+  );
+} else {
+  console.error("Error: rootElement is not found");
+}
