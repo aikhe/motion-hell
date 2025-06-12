@@ -1,4 +1,4 @@
-import * as motion from "motion/react-client";
+import { motion } from "motion/react";
 
 const box = {
   width: 100,

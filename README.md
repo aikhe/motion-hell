@@ -1,3 +1,5 @@
+### repo for motions tests
+
 #### To-Do:
 
 - VITE
@@ -18,7 +20,7 @@
     ```
     - [x] tailwindcss @tailwindcss/vite
     - [x] lenis
-    - [ ] motion
+    - [x] motion
     - [ ] react-three-fiber
   - [ ] 
 
